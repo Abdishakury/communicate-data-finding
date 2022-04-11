@@ -19,10 +19,29 @@ in a bike-sharing system covering the greater San Francisco Bay area.
     - station (start_station_id, start_station_name, start_station_latitude, start_station_longitude, end_station_id, end_station_name, end_station_latitude, end_station_longitude)
     - User (bike_id, user_type, member_birth_year, member_gender, bike_share_for_all_trip)
  
+ ![top_stations](https://user-images.githubusercontent.com/83236722/162660502-6a4c3e35-7c5a-4f3d-9de6-a5f6106e5c9b.jpg)
+
+ 
 > After adjustment and cleaning process new columns were created to help in analyzing and expolring the data so, our dataset consists of 21 columns now and the new columns as follow:
 >
     - Trip (duration_min, start_date, Trip_day of the week, Trip_hour of the day)
     - User (member_age)
+
+
+![number_trips](https://user-images.githubusercontent.com/83236722/162660548-218580b0-eb61-4bcb-b2b5-36a65e38a206.jpg)
+
+
+![cutomer_subscriber](https://user-images.githubusercontent.com/83236722/162660572-ca376b04-5928-4288-a728-3788f5ba2613.jpg)
+
+
+![top_stations](https://user-images.githubusercontent.com/83236722/162660593-02715d7f-f39b-497f-9c94-d2a2e6eaebf0.jpg)
+
+
+![weekly_trip](https://user-images.githubusercontent.com/83236722/162660607-809cb602-fe33-4d25-b8fa-b2a5eb4800db.jpg)
+
+
+![weekly_usage_bike](https://user-images.githubusercontent.com/83236722/162660637-8b7744e7-203c-4919-9c0a-77775ebac9f1.jpg)
+
 
 ## Summary of Findings
 
