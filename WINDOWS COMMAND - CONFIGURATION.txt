@@ -1,0 +1,12 @@
+NOTICE
+======
+
+I have tried several times to execute the below script that Udacity Data Analysis NanoDegree was provided us
+
+jupyter nbconvert Example_Project_Diamonds_Part2.ipynb --to slides --post serve --template output_toggle
+
+URL: https://classroom.udacity.com/nanodegrees/nd002/parts/9f7e8991-8bfb-4103-8307-3b6f93f0ecc7/modules/bc709f85-0ebb-45b8-907b-065adc25cbce/lessons/11e0327e-ee88-4787-b20e-1f75a04565e8/concepts/fac90a64-e549-4243-a16a-9c22f4179129
+
+Unfortunately, it did not work so I have used this script in order to make fordgobike_slide_deck.ipynb
+
+jupyter nbconvert fordgobike_slide_deck.ipynb --to slides --no-input --no-prompt
