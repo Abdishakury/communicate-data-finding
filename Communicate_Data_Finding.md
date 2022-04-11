@@ -2,7 +2,9 @@
 
 ## by Abdishakur Yoonis
 
-![](images/images/ford_go_bike.jpg)
+
+![ford_go_bike](https://user-images.githubusercontent.com/83236722/162660398-0bc80a32-9844-446e-88d6-39aeec9d5de9.jpg)
+
 
 
 ## Dataset
